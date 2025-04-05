@@ -1,7 +1,9 @@
 # Diet-Recommendation-systems
+![image](https://github.com/user-attachments/assets/cf58968a-90d7-4126-a495-9bf1e8948722)
+
 The Diet Recommendation System is a personalized health tool built using Python and Streamlit. It takes user details like age, weight, and dietary goals to calculate calorie needs and recommends suitable meals using content-based and rule-based filtering. The system also suggests healthier ingredient alternatives for better nutrition.
 
-![image](https://github.com/user-attachments/assets/355828b9-7b46-4343-a8e2-5a7893c11ed4)
+
 
 With increasing health concerns such as obesity, diabetes, and nutrient deficiencies, individuals often struggle to find appropriate meal plans that align with their dietary preferences and health goals. Many existing diet planners provide generic meal plans without customization, making it difficult for users to adhere to a healthy lifestyle. The Diet Recommendation System aims to address this issue by offering personalized meal recommendations based on user preferences and calorie constraints.
 
